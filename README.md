@@ -4,4 +4,7 @@
 
 Allows user to set a timer as well as reset timer to fresh state.
 
+
+Shows user successful completion of study sequence with a "✅".
+
 ![](https://github.com/rifleben/pomodoro_timer/blob/main/pomo_gif.gif)
